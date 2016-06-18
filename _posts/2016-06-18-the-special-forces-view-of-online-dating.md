@@ -1,7 +1,7 @@
 ---
 description: How to Master the Dating Game from the Comfort of Your Laptop
-dateModified: '2016-06-18T05:35:40.763Z'
-datePublished: '2016-06-18T05:38:10.126Z'
+dateModified: '2016-06-18T05:44:25.255Z'
+datePublished: '2016-06-18T05:44:28.835Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
@@ -22,7 +22,7 @@ How to Master the Dating Game from the Comfort of Your Laptop
 
 If you want to enjoy the best things that life has to offer, you have to be the best at what you do to earn the respect of the people around you.
 
-And in trying to achieve excellence, we all know it helps to study the leaders who have already reached the pinnacle of success in their field.
+And in trying to achieve excellence, we know that it helps to study the leaders who have already reached the pinnacle of success in their field.
 
 At Tesla Motors, Elon Musk uses a ["Special Forces" view in hiring][0] new talent and retaining employees in a crisis (merely good-enough personnel won't make the cut and are laid off).
 
@@ -34,7 +34,7 @@ In the military word, the Navy SEALs are synonymous with preeminence in combat. 
 
 To build up this world-class force, military leaders need to bring a lot of factors into alignment among recruits, including strength, speed, mental toughness, and specialized training that will forge a skilled and highly motivated group of warriors.
 
-And for those of us who seek to excel in private life, we can learn a lot about finding the best romantic relationships by studying the convergence between successful SEAL candidates and the needs of the organization in which they serve.
+For those of us who seek to excel in private life, we can learn a lot about finding the best romantic relationships by studying the convergence between successful SEAL candidates and the needs of the organization in which they serve.
 
 Let's compare how the process that is used to recruit Navy SEALs might be related to an effective system for getting more dates, finding love, and building an outstanding relationship that will last the test of time:
 
