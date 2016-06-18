@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dominate Online Dating]]></title>
+        <description><![CDATA[Dominate Online Dating]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 01:45:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Navy SEALs explain how your ego can destroy everything]]></title>
+            <description><![CDATA[<article><h1>Navy SEALs explain how your ego can destroy everything</h1><p>VIDEO: Can't change = will fail.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28a0f4c2f0a67e1594ce1095743dbeac/noop.jpg?input=http%3A%2F%2Fstatic3.businessinsider.com%2Fimage%2F563d1fda6bb3f7546d15303a-1190-625%2Fnavy-seals-explain-how-your-ego-can-destroy-everything.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/navy-seals-explain-consequences-of-ego-2015-11</link>
+            <guid isPermaLink="false">f217ae61-e4b3-46cf-b8da-03282bda2440</guid>
+            <pubDate>Sat, 18 Jun 2016 01:45:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
