@@ -1,15 +1,15 @@
 ---
-description: '[How to Master the Dating Game from the Comfort of Your Laptop]'
-dateModified: '2016-06-18T02:34:42.365Z'
-datePublished: '2016-06-18T02:35:11.226Z'
+description: How to Master the Dating Game from the Comfort of Your Laptop
+dateModified: '2016-06-18T03:24:40.933Z'
+datePublished: '2016-06-18T03:24:50.347Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
     url: 'https://www.youtube.com/channel/UC2dmcMf4Hgiw2NOW_IMKoyQ'
     avatar: {}
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3ef61ISaA0g'
-starred: false
 sourcePath: _posts/2016-06-18-the-special-forces-view-of-online-dating.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -18,7 +18,7 @@ _type: MediaObject
 ---
 # The "Special Forces" View of Online Dating
 
-\[How to Master the Dating Game from the Comfort of Your Laptop\]
+How to Master the Dating Game from the Comfort of Your Laptop
 
 If you want the best out of life, you have to be the best at what you do to earn the respect of the people around you. And in trying to achieve excellence, we all know it helps to study the leaders who have already reached the pinnacle of success in their field.
 
