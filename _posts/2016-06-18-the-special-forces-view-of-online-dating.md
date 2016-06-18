@@ -1,7 +1,7 @@
 ---
 description: How to Master the Dating Game from the Comfort of Your Laptop
-dateModified: '2016-06-18T05:20:56.934Z'
-datePublished: '2016-06-18T05:26:23.029Z'
+dateModified: '2016-06-18T05:35:40.763Z'
+datePublished: '2016-06-18T05:38:10.126Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
@@ -44,7 +44,7 @@ Let's compare how the process that is used to recruit Navy SEALs might be relate
 
 \* You deliberately recruit candidates in higher numbers than your current need to fill specific roles. (To illustrate: the standard SEAL class size is over 150 sailors. [Attrition rates][3] of 70 - 80% are expected, and it is not unheard of for an [entire class][4] to wash out with no successful graduates.)
 
-\* You maintain high standards for commitment by organizing a time period of assessment to determine which candidates are willing and able to rise to the occasion.
+\* You maintain high standards for commitment by organizing an initial period of assessment to determine which candidates are willing and able to stay with you for the long haul.
 
 \* You expect, and at times encourage, low performers and unmotivated candidates to drop out.
 
@@ -74,7 +74,7 @@ It's not just a question of which platform you use -- the big problem is knowing
 
 You can always experiment to find out what works, but I'll be honest with you: it takes a lot of time to figure out the best online dating strategies on your own.
 
-That's why I'm taking the hassle out of the process and sharing the techniques and scripts that enabled me to dominate the dating scene. 
+That's why I'm taking the hassle out of the process and sharing the techniques and scripts that enabled me to dominate the dating scene.
 
 Enter your e-mail address below to learn how to master the online dating game from the comfort of your laptop.
 
