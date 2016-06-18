@@ -23,10 +23,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.businessinsider.com/navy-seals-explain-consequences-of-ego-2015-11'
 title: Navy SEALs explain how your ego can destroy everything
-datePublished: '2016-06-18T01:45:54.695Z'
-dateModified: '2016-06-17T21:22:55.118Z'
-starred: true
+datePublished: '2016-06-18T03:30:42.783Z'
+dateModified: '2016-06-18T03:30:41.794Z'
 sourcePath: _posts/2016-06-18-navy-seals-explain-how-your-ego-can-destroy-everything.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
