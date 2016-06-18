@@ -1,7 +1,7 @@
 ---
 description: How to Master the Dating Game from the Comfort of Your Laptop
-dateModified: '2016-06-18T03:30:35.642Z'
-datePublished: '2016-06-18T03:30:36.106Z'
+dateModified: '2016-06-18T03:30:38.393Z'
+datePublished: '2016-06-18T03:30:39.437Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
@@ -9,7 +9,7 @@ author:
     avatar: {}
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3ef61ISaA0g'
 sourcePath: _posts/2016-06-18-the-special-forces-view-of-online-dating.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
