@@ -1,7 +1,7 @@
 ---
 description: How to Master the Dating Game from the Comfort of Your Laptop
-dateModified: '2016-06-18T04:50:50.809Z'
-datePublished: '2016-06-18T04:51:55.255Z'
+dateModified: '2016-06-18T05:20:56.934Z'
+datePublished: '2016-06-18T05:26:23.029Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
@@ -20,7 +20,7 @@ _type: MediaObject
 
 How to Master the Dating Game from the Comfort of Your Laptop
 
-If you want to enjoy the best things that life has to offer, you have to be the best at what you do to earn the respect of the people around you. 
+If you want to enjoy the best things that life has to offer, you have to be the best at what you do to earn the respect of the people around you.
 
 And in trying to achieve excellence, we all know it helps to study the leaders who have already reached the pinnacle of success in their field.
 
@@ -72,9 +72,9 @@ Of course, a lot of guys have also had success with Match.com and Tinder. It's e
 
 It's not just a question of which platform you use -- the big problem is knowing how to use these sites as tools to get the results that you deserve.
 
-You can always experiment to find out what works, but I'll be honest with you: it takes a lot of time to figure out the best online dating strategies on your own. 
+You can always experiment to find out what works, but I'll be honest with you: it takes a lot of time to figure out the best online dating strategies on your own.
 
-That's why I've taken the hassle out of the process by sharing the best techniques and scripts that have let me dominate the dating scene.
+That's why I'm taking the hassle out of the process and sharing the techniques and scripts that enabled me to dominate the dating scene. 
 
 Enter your e-mail address below to learn how to master the online dating game from the comfort of your laptop.
 
