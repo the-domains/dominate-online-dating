@@ -1,7 +1,7 @@
 ---
 description: How to Master the Dating Game from the Comfort of Your Laptop
-dateModified: '2016-06-18T19:33:22.223Z'
-datePublished: '2016-06-18T19:33:52.376Z'
+dateModified: '2016-06-19T23:35:32.234Z'
+datePublished: '2016-06-19T23:36:08.015Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
@@ -22,7 +22,7 @@ How to Master the Dating Game from the Comfort of Your Laptop
 
 If you want to enjoy the best things that life has to offer, you have to be the best at what you do to earn the respect of the people around you.
 
-And in trying to achieve excellence, we know that it helps to study the leaders who have already reached the pinnacle of success in their field.
+And in trying to achieve excellence, we all know that it helps to study the leaders who have already reached the pinnacle of success in their field.
 
 At Tesla Motors, Elon Musk uses a ["Special Forces" view in hiring][0] new talent and retaining employees in a crisis (merely good-enough personnel won't make the cut and are laid off).
 
@@ -32,11 +32,11 @@ In the military word, the Navy SEALs are synonymous with preeminence in combat. 
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3ef61ISaA0g%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3ef61ISaA0g&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3ef61ISaA0g%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-To build up this world-class force, military leaders need to bring a lot of factors into alignment among recruits, including strength, speed, mental toughness, and specialized training that will forge a skilled and highly motivated group of warriors.
+To build up this world-class force, military leaders need to bring a lot of factors into alignment among recruits, including strength, speed, mental toughness, and specialized training that will forge a highly skilled and motivated group of warriors.
 
 For those of us who seek to excel in private life, we can learn a lot about finding the best romantic relationships by studying the convergence between successful SEAL candidates and the needs of the organization in which they serve.
 
-Let's compare how the process that is used to recruit Navy SEALs might be related to an effective system for getting more dates, finding love, and building an outstanding relationship that will last the test of time:
+Let's compare how the process that is used to recruit Navy SEALs might be related to an effective system for getting better dates, finding love, and building an outstanding relationship that will last the test of time:
 
 \* You set basic qualifications for candidates to fulfill, such as requirements for age, physical fitness, and intelligence metrics that will help you weed out underachievers, while still allowing you the flexibility to take a substantial pool of applicants into consideration.
 
@@ -48,9 +48,9 @@ Let's compare how the process that is used to recruit Navy SEALs might be relate
 
 \* You expect, and at times encourage, low performers and unmotivated candidates to drop out.
 
-I know the idea of approaching dating as a recruiting strategy may seem weird or foreign to you. But consider the costs of failing to take a systematic mindset into the world of dating:
+I know the idea of approaching dating as a recruiting strategy may seem weird or foreign to you. But consider the costs of failing to bring a systematic mindset into the world of dating:
 
-\* You hit on random women in public, which often leads to rejection and humiliation.
+\* You hit on random women, which often leads to rejection and public humiliation.
 
 \* You waste valuable time that otherwise could have been spent meeting new people and having fun.
 
@@ -68,11 +68,11 @@ Big companies like Microsoft don't stress when someone quits -- they just go bac
 
 Now you may be wondering where you are going to source these new "recruits" from: my recommended dating sites are OkCupid and Meetup.com.
 
-Of course, a lot of guys have also had success with Match.com and Tinder. It's even possible to hack Facebook and [Instagram to get dates][5].
+Of course, a lot of guys have also had success with Match.com and Tinder. It's even possible to hack Facebook and [Instagram to get more dates][5].
 
 It's not just a question of which platform you use -- the biggest problem is knowing how to use these tools to get the results that you deserve.
 
-You can always experiment to find out what works, but I'll be honest with you: it takes a lot of time to figure out the best online dating strategies on your own.
+You can always experiment to find out what works, but I'll be honest with you: it takes a lot of time to figure out the best strategies on your own.
 
 That's why I'm taking the hassle out of the process and sharing the techniques and scripts that enabled me to dominate the online dating scene.
 
