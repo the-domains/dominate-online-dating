@@ -1,7 +1,7 @@
 ---
 description: How to Master the Dating Game from the Comfort of Your Laptop
-dateModified: '2016-06-19T23:35:32.234Z'
-datePublished: '2016-06-19T23:36:08.015Z'
+dateModified: '2016-06-20T20:44:05.307Z'
+datePublished: '2016-06-20T20:44:24.067Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
@@ -28,7 +28,7 @@ At Tesla Motors, Elon Musk uses a ["Special Forces" view in hiring][0] new talen
 
 Plus, Ramit Sethi co-authored a [whole book][1] about how the most prestigious corporations maintain their competitive edge with proven strategies for college recruiting, and how smaller companies can master the recruiting game by following the playbook of industry giants like McKinsey, Microsoft, and Goldman Sachs.
 
-In the military word, the Navy SEALs are synonymous with preeminence in combat. As the elite operators within the U.S. arsenal, these guys need to [train for a year][2] before they are awarded their trident insignia and allowed to serve as full-fledged members of the team.
+In the military word, the Navy SEALs are synonymous with preeminence in combat. As the elite operators within the U.S. arsenal, these guys [train for a year][2] before they are awarded their trident insignia and allowed to serve as full-fledged members of the team.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3ef61ISaA0g%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3ef61ISaA0g&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3ef61ISaA0g%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
