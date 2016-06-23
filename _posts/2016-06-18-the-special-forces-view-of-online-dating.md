@@ -1,7 +1,7 @@
 ---
 description: How to Master the Dating Game from the Comfort of Your Laptop
-dateModified: '2016-06-20T20:44:05.307Z'
-datePublished: '2016-06-20T20:44:24.067Z'
+dateModified: '2016-06-23T20:53:34.817Z'
+datePublished: '2016-06-23T20:53:59.887Z'
 title: The “Special Forces” View of Online Dating
 author:
   - name: The U.S Military
@@ -42,7 +42,7 @@ Let's compare how the process that is used to recruit Navy SEALs might be relate
 
 \* You create a pipeline of recruits from multiple channels to diversify your options and attract a variety of talents among candidates.
 
-\* You deliberately recruit candidates in higher numbers than you currently need to fill specific roles. (To illustrate: the standard SEAL class size is over 150 sailors. [Attrition rates][3] of 70 - 80% are expected, and it is not unheard of for an [entire class][4] to wash out with no successful graduates.)
+\* You deliberately recruit candidates in higher numbers than you currently need to fill specific roles. (To illustrate: the standard SEAL class size is over 150 sailors. [Attrition rates][3] of 70 - 80% are expected, and it is not unheard of for an [entire class][4] to wash out with no graduates.)
 
 \* You maintain high standards for commitment by organizing an initial period of assessment to determine which candidates are willing and able to stay with you for the long haul.
 
